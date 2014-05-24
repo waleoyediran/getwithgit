@@ -13,4 +13,5 @@ Have fun.
 	* Femi Taiwo, @dftaiwo
 	* Wale Oyediran, <twitter_handle>
 	* Nanyak Loknan S, @nanyaks
+	* Joseph Rex
 	* [Add your name here and send a pull request]
