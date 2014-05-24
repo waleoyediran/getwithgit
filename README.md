@@ -11,7 +11,8 @@ Have fun.
 
 * Team:
 	* Femi Taiwo, @dftaiwo
-	* Wale Oyediran, <twitter_handle>
+	* Wale Oyediran, @waleoyediran
 	* Nanyak Loknan S, @nanyaks
 	* Adegoke Obasa, @goke_epapa
+	* ADETUNJI OPAYELE, www.adetunjiopayele.com
 	* [Add your name here and send a pull request]
